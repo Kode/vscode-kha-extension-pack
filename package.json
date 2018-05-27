@@ -1,0 +1,16 @@
+{
+    "name": "kha-extension-pack",
+    "displayName": "Kha Extension Pack",
+    "description": "Everything you need for Kha development",
+    "version": "0.0.1",
+    "publisher": "Kode",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "publisher.extensionName"
+    ]
+}
