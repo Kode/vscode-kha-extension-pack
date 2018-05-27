@@ -17,5 +17,9 @@
         "wiggin77.codedox",
         "vshaxe.haxe-debug",
         "HaxeFoundation.haxe-hl"
-    ]
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Kode/vscode-kha-extension-pack"
+    }
 }
