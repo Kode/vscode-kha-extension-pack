@@ -1,7 +1,11 @@
-# Change Log
-All notable changes to the "kha-extension-pack" extension pack will be documented in this file.
+### 18.5.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Add Krom
 
-## [Unreleased]
-- Initial release
+### 18.5.1
+
+Fix electron-debug id
+
+### 18.5.0
+
+Initial release
