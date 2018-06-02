@@ -1,3 +1,7 @@
+### 18.6.0
+
+Add the Krom Debugger
+
 ### 18.5.2
 
 Add Krom
