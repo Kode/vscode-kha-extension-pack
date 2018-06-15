@@ -2,13 +2,19 @@
     "name": "kha-extension-pack",
     "displayName": "Kha Extension Pack",
     "description": "Everything you need for Kha development",
-    "version": "18.6.0",
+    "version": "18.6.1",
     "publisher": "kodetech",
     "engines": {
         "vscode": "^1.23.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "Kha",
+        "Kore",
+        "Krom",
+        "Haxe"
     ],
     "extensionDependencies": [ 
         "kodetech.kha",
@@ -18,6 +24,7 @@
         "nadako.vshaxe",
         "wiggin77.codedox",
         "vshaxe.haxe-debug",
+        "vshaxe.haxe-checkstyle",
         "HaxeFoundation.haxe-hl"
     ],
     "repository": {
