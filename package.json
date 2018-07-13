@@ -2,7 +2,7 @@
     "name": "kha-extension-pack",
     "displayName": "Kha Extension Pack",
     "description": "Everything you need for Kha development",
-    "version": "18.6.1",
+    "version": "18.7.0",
     "publisher": "kodetech",
     "engines": {
         "vscode": "^1.23.0"
@@ -19,6 +19,7 @@
     "extensionDependencies": [ 
         "kodetech.kha",
         "kodetech.electron-debug",
+        "kodetech.krafix",
         "kodetech.krom",
         "kodetech.krom-debug",
         "nadako.vshaxe",

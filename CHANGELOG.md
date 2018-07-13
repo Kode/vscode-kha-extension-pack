@@ -1,3 +1,11 @@
+### 18.7.0
+
+Add the krafix extension
+
+### 18.6.1
+
+Add checkstyle
+
 ### 18.6.0
 
 Add the Krom Debugger
