@@ -1,3 +1,7 @@
+### 18.9.0
+
+Add the hxcpp debugger extension
+
 ### 18.7.0
 
 Add the krafix extension
