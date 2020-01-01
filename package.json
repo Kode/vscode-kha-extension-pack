@@ -2,7 +2,7 @@
     "name": "kha-extension-pack",
     "displayName": "Kha Extension Pack",
     "description": "Everything you need for Kha development",
-    "version": "18.9.0",
+    "version": "20.1.0",
     "publisher": "kodetech",
     "engines": {
         "vscode": "^1.23.0"
