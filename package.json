@@ -2,7 +2,7 @@
     "name": "kha-extension-pack",
     "displayName": "Kha Extension Pack",
     "description": "Everything you need for Kha development",
-    "version": "20.2.1",
+    "version": "20.2.2",
     "publisher": "kodetech",
     "engines": {
         "vscode": "^1.23.0"
@@ -24,8 +24,7 @@
         "kodetech.krom-debug",
         "vshaxe.haxe-checkstyle",
         "nadako.vshaxe",
-        "wiggin77.codedox",
-        "vshaxe.haxe-debug"
+        "wiggin77.codedox"
     ],
     "repository": {
       "type": "git",
