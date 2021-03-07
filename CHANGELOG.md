@@ -1,3 +1,7 @@
+### 21.3.0
+
+Remove the checkstyle and electron-debug extensions
+
 ### 20.1.0
 
 Update the readme
