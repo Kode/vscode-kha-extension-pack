@@ -1,3 +1,7 @@
+### 22.5.0
+
+Move everything to the extensionPack-property
+
 ### 21.3.0
 
 Remove the checkstyle and electron-debug extensions
