@@ -2,7 +2,7 @@
     "name": "kha-extension-pack",
     "displayName": "Kha Extension Pack",
     "description": "Everything you need for Kha development",
-    "version": "22.5.0",
+    "version": "22.6.0",
     "publisher": "kodetech",
     "engines": {
         "vscode": "^1.23.0"
@@ -21,8 +21,7 @@
         "kodetech.krafix",
         "kodetech.krom",
         "kodetech.krom-debug",
-        "nadako.vshaxe",
-        "wiggin77.codedox"
+        "nadako.vshaxe"
     ],
     "repository": {
       "type": "git",

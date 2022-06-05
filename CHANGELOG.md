@@ -1,3 +1,8 @@
+### 22.6.0
+
+Remove the codedox extension because it's not strictly necessary
+and because it's not available on openvsx
+
 ### 22.5.0
 
 Move everything to the extensionPack-property
